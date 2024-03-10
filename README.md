@@ -3,7 +3,7 @@
  <p id="repo-subtitle" align="center">A native JavaScript library to make your buttons wobble on hover</p>
 </p>
 
-<p class="repo-desc">
+<p id="repo-desc">
     You can watch this effect live all over my <a href="https://himdek.com/Wobbly-Buttons">website</a>.
 </p>
 
@@ -27,7 +27,7 @@
         </div>
     ```
 * Result <span class="d-none">(will work in <a href="https://himdek.com/Wobbly-Buttons">website</a>)</span>:
-        <div class="wobbly-button-container">
+        <div class="wobbly-button-container" style="width: fit-content">
             <button class="wobbly-button" style="padding: 1rem; background-color: #00000000; border: none;">Button</button>
         </div>
 
