@@ -3,15 +3,16 @@
  <p id="repo-subtitle" align="center">A native JavaScript library to make your buttons wobble on hover</p>
 </p>
 
-<p id="repo-desc">
+<h3 id="repo-desc">
     You can watch this effect live all over my <a href="https://himdek.com/Wobbly-Buttons-JS">website</a>.
-</p>
+</h3>
+<h3>Or test it yourself in <a href="https://jsfiddle.net/HimDek/98abx10z/">this fiddle</a></h3>
 
 ## Usage:
 
 * To use <span id="repo-title">Wobbly Button JS</span>, first add the following inside the <body> of your HTML document:
     ``` HTML
-        <script src="https://himdek.com/Wobbly-Buttons/WobblyButtons.js"></script>
+        <script src="https://himdek.com/Wobbly-Buttons-JS/WobblyButtons.js"></script>
         <script>
             addEventListener("DOMContentLoaded", (event) => {
                 wobblyButtonsInit();
