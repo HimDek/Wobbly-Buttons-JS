@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://himdek.com/Wobbly-Buttons"><h1 id="repo-title" align="center">Wobbly Buttons JS</h1></a>
+ <a href="https://himdek.com/Wobbly-Buttons"><h1 id="repo-name" align="center">Wobbly-Buttons-JS</h1></a>
  <p id="repo-subtitle" align="center">A native JavaScript library to make your buttons wobble on hover</p>
 </p>
 
@@ -9,7 +9,7 @@
 
 ## Usage:
 
-* First add the following inside the <body> of your HTML document:
+* To use <span id="repo-title">Wobbly Button JS</span>, first add the following inside the <body> of your HTML document:
     ``` HTML
         <script src="https://himdek.com/Wobbly-Buttons/WobblyButtons.js"></script>
         <script>
