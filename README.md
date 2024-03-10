@@ -4,7 +4,7 @@
 </p>
 
 <p id="repo-desc">
-    You can watch this effect live all over my <a href="https://himdek.com/Wobbly-Buttons">website</a>.
+    You can watch this effect live all over my <a href="https://himdek.com/Wobbly-Buttons-JS">website</a>.
 </p>
 
 ## Usage:
@@ -26,7 +26,7 @@
             <button class="wobbly-button" style="padding: 1rem; background-color: #00000000; border: none;">Button</button>
         </div>
     ```
-* Result <span class="d-none">(will work in <a href="https://himdek.com/Wobbly-Buttons">website</a>)</span>:
+* Result <span class="d-none">(will work in <a href="https://himdek.com/Wobbly-Buttons-JS">website</a>)</span>:
         <div class="wobbly-button-container" style="width: fit-content">
             <button class="wobbly-button" style="padding: 1rem; background-color: #00000000; border: none;">Button</button>
         </div>
