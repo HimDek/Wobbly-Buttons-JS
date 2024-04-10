@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://himdek.com/Wobbly-Buttons"><h1 id="repo-name" align="center">Wobbly-Buttons-JS</h1></a>
+ <a href="https://himdek.com/Wobbly-Buttons-JS"><h1 align="center"><span id="repo-name">Wobbly-Buttons-JS</span></h1></a>
  <p id="repo-subtitle" align="center">A native JavaScript library to make your buttons wobble on hover</p>
 </p>
 
